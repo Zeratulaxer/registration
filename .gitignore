@@ -1,0 +1,8 @@
+composer-setup.php
+composer.phar
+/exception
+/function
+/namespace
+/vendor
+.idea/
+composer.json
