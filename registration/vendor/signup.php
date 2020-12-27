@@ -94,12 +94,7 @@ $password_confirm = htmlspecialchars(trim($_POST['password_confirm']));
     }
 
 
-//htmlentities();
-//htmlspecialchars();
-//password_hash();
-//password_verify();
-// экранирование всех символов введенных пользователям
-// защита от sql инъекций
+
 
 
 
